@@ -1,6 +1,6 @@
 # Hello, folks! Maharsh Here<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Front-end Developer using MERN Stack and also developed and hosted few projects using Firebase. I am currently a grad student at Illinois Institute of Techn ology.
+I'm Front-end Developer using MERN Stack and Currently a Grad student at Illinois Institute of Technology majoring in Computer Science.
 
 -Technolgies Used:-
 -React.js
