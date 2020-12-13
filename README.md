@@ -13,5 +13,5 @@ I'm Front-end Developer using MERN Stack and also developed and hosted few proje
 Social Media Profile
 -
 
-Git Contribution
+## &#x1f4c8; GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmaharsh&theme=radical&hide=php)
