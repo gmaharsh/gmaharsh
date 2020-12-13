@@ -2,7 +2,7 @@
 
 I'm Front-end Developer using MERN Stack and Currently a Grad student at Illinois Institute of Technology majoring in Computer Science.
 
-https://komarev.com/ghpvc/?username=rachana15&color=green
+https://komarev.com/ghpvc/?username=gmaharsh&color=green
 
 -Technolgies Used:-
 -React.js
