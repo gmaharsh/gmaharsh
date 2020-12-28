@@ -35,11 +35,11 @@ I'm Front-end Developer using MERN Stack and Currently a Grad student at Illinoi
   <img alt="Twitter" src="https://img.shields.io/badge/twitter-2374e1.svg?&style=for-the-badge&logo=twitter&logoColor=white%27" />
 </a>
 
-<a href="https://www.instagram.com/?hl=en" target="_blank">
+<a href="https://www.instagram.com/maharsh.gheewala/?hl=en" target="_blank">
   <img alt="Instagram" src="https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=red" />
 </a>
 
-<a href="https://twitter.com/iamnisharg" target="_blank">
+<a href="https://www.facebook.com/gmaharsh/" target="_blank">
   <img alt="Facebook" src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
