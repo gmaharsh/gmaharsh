@@ -12,7 +12,7 @@ https://komarev.com/ghpvc/?username=gmaharsh&color=green
 -Node.js
 -C++
 
-## &#x1f4c8; Social Media Profile
+## Social Media Profile
 
 <a href="https://www.linkedin.com/in/gmaharsh/" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
